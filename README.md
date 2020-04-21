@@ -8,4 +8,4 @@ Five-number summary analysis of CSV file & Iris dataset fron Kaggle.
 
 # setup
 
-**npm install**
+`npm install`
